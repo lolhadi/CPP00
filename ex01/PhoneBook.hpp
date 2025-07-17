@@ -10,7 +10,7 @@ class PhoneBook{
 
 	public:
 			void addContact(size_t);
-			void searchContact();
+			void searchContact(int i);
 			void printContact(int index);
 };
 #endif
